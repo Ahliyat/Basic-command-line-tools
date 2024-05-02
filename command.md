@@ -17,3 +17,13 @@
 - `mkdir foldername` : create a new directory(folder)
 - `touch filename` : create a new file in a directory(folder)
 - `rm filename/foldername` : remove/delete a file/folder 
+
+
+### The following are basic git commands
+
+- `git init` : initializes empty git repository
+- `git status` : to check the status of the present directory
+- `git add .` : to stage the changes 
+- `git commit -m "commit message"` : to commit the changes to the repository
+- `git remote add origin {repo-url}` :  to add a local repository and treat it globally
+- `git push -u origin master"` : to publish your local work to your repository on github
